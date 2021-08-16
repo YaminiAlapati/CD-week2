@@ -1,0 +1,27 @@
+
+ void : identifier
+ main : identifier
+(
+)
+{ 
+ int : keyword 
+ n : identifier
+; 
+ if : keyword 
+( 
+1: number
+ relational operator <  
+10: number
+)
+{
+ return : identifier 
+1: number
+;
+}
+}
+
+S.NO-Identifier
+1       void
+2	main
+3	n
+4	return

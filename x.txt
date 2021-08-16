@@ -1,0 +1,8 @@
+void main(){
+    int n;
+    if(1 < 10){
+       return 1; 
+    }
+}
+/*comments
+*/
